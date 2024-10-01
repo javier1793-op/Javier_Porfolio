@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [Page](https://javier1793-op.github.io/Porfolio_Javier/)
+- Solution URL: [Page](https://javier1793-op.github.io/Javier_Porfolio/)
 
 
 ### Built with
