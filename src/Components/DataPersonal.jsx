@@ -51,9 +51,7 @@ const DataPersonal = () => {
           <span>Skill:</span>
           <span><Skill/></span>
         </div>
-      <a href={CV} alt="fileCV" className="btn-cv" download >
-        descargar CV <FiDownload className="iconDownload" />
-      </a>
+   
     </>
   );
 };
